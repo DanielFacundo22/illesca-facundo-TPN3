@@ -1,4 +1,4 @@
-/* styles.css */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #0c0606;
+    color: #eeeeee;
     padding: 1em;
 }
 
@@ -22,7 +22,7 @@ nav li {
 }
 
 nav a {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
 }
 
